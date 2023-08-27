@@ -1,0 +1,3 @@
+name: HanMinigameAPIRemake
+version: '${project.version}'
+main: tech.bingulhan.hanminigameapiremake.HanMinigameAPIRemake
